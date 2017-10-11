@@ -1,0 +1,103 @@
+{
+  "took": 79,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "failed": 0
+  },
+  "hits": {
+    "total": 5000,
+    "max_score": 0,
+    "hits": []
+  },
+  "aggregations": {
+    "2": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 37,
+      "buckets": [
+        {
+          "key": "France",
+          "doc_count": 4378
+        },
+        {
+          "key": "Royaume Uni",
+          "doc_count": 139
+        },
+        {
+          "key": "Belgique",
+          "doc_count": 69
+        },
+        {
+          "key": "Allemagne",
+          "doc_count": 66
+        },
+        {
+          "key": "Espagne",
+          "doc_count": 52
+        },
+        {
+          "key": "Suisse",
+          "doc_count": 39
+        },
+        {
+          "key": "Royaume-Uni",
+          "doc_count": 32
+        },
+        {
+          "key": "Afrique",
+          "doc_count": 24
+        },
+        {
+          "key": "Italie",
+          "doc_count": 22
+        },
+        {
+          "key": "Autres Pays Zone Europe",
+          "doc_count": 21
+        },
+        {
+          "key": "Pays-Bas",
+          "doc_count": 21
+        },
+        {
+          "key": "Asie",
+          "doc_count": 17
+        },
+        {
+          "key": "Etats-Unis",
+          "doc_count": 14
+        },
+        {
+          "key": "Pologne",
+          "doc_count": 13
+        },
+        {
+          "key": "Canada",
+          "doc_count": 12
+        },
+        {
+          "key": "Amérique du Nord",
+          "doc_count": 11
+        },
+        {
+          "key": "Russie",
+          "doc_count": 11
+        },
+        {
+          "key": "Irlande",
+          "doc_count": 9
+        },
+        {
+          "key": "Amérique centrale et du sud",
+          "doc_count": 7
+        },
+        {
+          "key": "Australie",
+          "doc_count": 6
+        }
+      ]
+    }
+  },
+  "status": 200
+}

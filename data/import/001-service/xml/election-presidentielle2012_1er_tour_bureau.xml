@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><opendata>	<request>http://www.opendata.larochelle.fr/webservice/?service=getData&amp;key=LHE8vyLUbT4DSMNe&amp;db=election&amp;table=presidentielle2012_1er_tour_bureau&amp;format=xml&amp;limit=5000</request>	<answer>		<status>code=0 message=Success</status>		<data>		</data>	</answer></opendata>

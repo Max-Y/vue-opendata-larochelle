@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document><Folder><name>activite_sociale</name>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>1</i><br />
+      <b>quartier:</b> <i>La genette                                                                                                                                                                                                                                                     </i><br />
+      <b>adresse:</b> <i>15 rue Alsace Lorraine                                                                                                                                                                                                                                         </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Agence Régionale de la Formation tout au long de la vie                                                                                                                                                                                                        </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.171300993611694,46.158069507304617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>2</i><br />
+      <b>quartier:</b> <i>La genette                                                                                                                                                                                                                                                     </i><br />
+      <b>adresse:</b> <i>40 rue de la Pépinière                                                                                                                                                                                                                                         </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>APAPAR                                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.1641745805265,46.160136526218622,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>3</i><br />
+      <b>quartier:</b> <i>Centre ville                                                                                                                                                                                                                                                   </i><br />
+      <b>adresse:</b> <i>2 r Gentilshommes                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>CDIJ                                                                                                                                                                                                                                                           </i><br />
+      <b>compl_adr:</b> <i>Centre ville                                                                                                                                                                                                                                                   </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.150850139032389,46.15967725867042,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>4</i><br />
+      <b>quartier:</b> <i>Centre ville                                                                                                                                                                                                                                                   </i><br />
+      <b>adresse:</b> <i>7 Rue JAILLOT                                                                                                                                                                                                                                                  </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>CIO                                                                                                                                                                                                                                                            </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.150891273105486,46.164461304467096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>5</i><br />
+      <b>quartier:</b> <i>Centre ville                                                                                                                                                                                                                                                   </i><br />
+      <b>adresse:</b> <i>Cité Administrative DUPERRE - Place des Cordeliers                                                                                                                                                                                                             </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>INSPECTION ACADEMIQUE                                                                                                                                                                                                                                          </i><br />
+      <b>compl_adr:</b> <i>BP 508                                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17021</i><br />
+]]></description>
+      <Point><coordinates>-1.145412694435017,46.162905635177843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>6</i><br />
+      <b>quartier:</b> <i>Bel Air                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>88 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Maison de l'emploi                                                                                                                                                                                                                                             </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.169296640369606,46.168903158102196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>7</i><br />
+      <b>quartier:</b> <i>Port neuf                                                                                                                                                                                                                                                      </i><br />
+      <b>adresse:</b> <i>Centre social J. Benoit / place de l'Ile de France                                                                                                                                                                                                             </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Maison de quartier de Port-Neuf                                                                                                                                                                                                                                </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.18004624416827,46.158322651361395,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>8</i><br />
+      <b>quartier:</b> <i>Bel Air                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>90 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Mission Locale                                                                                                                                                                                                                                                 </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.16945792260883,46.169080456703568,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>9</i><br />
+      <b>quartier:</b> <i>Bel Air                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>88 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>PARIE                                                                                                                                                                                                                                                          </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.169176283797687,46.168714045849846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>15</i><br />
+      <b>quartier:</b> <i>Villeneuve les Salines                                                                                                                                                                                                                                         </i><br />
+      <b>adresse:</b> <i>41 avenue Danton                                                                                                                                                                                                                                               </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Point Emploi de Quartier                                                                                                                                                                                                                                       </i><br />
+      <b>compl_adr:</b> <i>Villeneuve les Salines                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.119491083878176,46.152753874849196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>17</i><br />
+      <b>quartier:</b> <i>Laleu                                                                                                                                                                                                                                                          </i><br />
+      <b>adresse:</b> <i>26 rue de la Muse                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Point Emploi de Quartier                                                                                                                                                                                                                                       </i><br />
+      <b>compl_adr:</b> <i>Laleu                                                                                                                                                                                                                                                          </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.20076794243019,46.16714838738465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>18</i><br />
+      <b>quartier:</b> <i>Mireuil                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>1 avenue Schuman                                                                                                                                                                                                                                               </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Point Emploi de Quartier - DEFI                                                                                                                                                                                                                                </i><br />
+      <b>compl_adr:</b> <i>Mireuil                                                                                                                                                                                                                                                        </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.177960767366074,46.165739263307223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>10</i><br />
+      <b>quartier:</b> <i>Bel Air                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>86 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Pôle Emploi Bel Air                                                                                                                                                                                                                                            </i><br />
+      <b>compl_adr:</b> <i>Bel Air                                                                                                                                                                                                                                                        </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.169030487944456,46.168506220853757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>19</i><br />
+      <b>quartier:</b> <i>st eloi                                                                                                                                                                                                                                                        </i><br />
+      <b>adresse:</b> <i>1 rue Franc Lapeyre                                                                                                                                                                                                                                            </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Pôle Emploi Joffre                                                                                                                                                                                                                                             </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.140899896629681,46.159093774852607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>20</i><br />
+      <b>quartier:</b> <i>Villeneuve les Salines                                                                                                                                                                                                                                         </i><br />
+      <b>adresse:</b> <i>45 avenue Billaud Varenne                                                                                                                                                                                                                                      </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Pôle Emploi Villeneuve les Salines                                                                                                                                                                                                                             </i><br />
+      <b>compl_adr:</b> <i>Villeneuve les Salines                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.114896561189744,46.150943409873094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>21</i><br />
+      <b>quartier:</b> <i>Villeneuve les Salines                                                                                                                                                                                                                                         </i><br />
+      <b>adresse:</b> <i>41 avenue Danton                                                                                                                                                                                                                                               </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Régie de quartier DIAGONALES                                                                                                                                                                                                                                   </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.119504996211923,46.152697724860893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>22</i><br />
+      <b>adresse:</b> <i>12 rue de la Perruche                                                                                                                                                                                                                                          </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>ADEF+                                                                                                                                                                                                                                                          </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.159175448861502,46.148682214498947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>14</i><br />
+      <b>adresse:</b> <i>90 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>ADIE                                                                                                                                                                                                                                                           </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.168442126508217,46.169074200773153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>23</i><br />
+      <b>adresse:</b> <i>10 rue Jean Perrin                                                                                                                                                                                                                                             </i><br />
+      <b>ville:</b> <i>La Rochelle Cedex 1                                                                                                                                                                                                                                            </i><br />
+      <b>libelle:</b> <i>PROMETHEE 17                                                                                                                                                                                                                                                   </i><br />
+      <b>compl_adr:</b> <i>BP 53105                                                                                                                                                                                                                                                       </i><br />
+      <b>cp:</b> <i>17033</i><br />
+]]></description>
+      <Point><coordinates>-1.159879261823586,46.141011474682365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>24</i><br />
+      <b>adresse:</b> <i>40 rue de la Pépinière                                                                                                                                                                                                                                         </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>APAPAR                                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.164179175628543,46.160187307324016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>25</i><br />
+      <b>adresse:</b> <i>18 avenue Pierre Loti                                                                                                                                                                                                                                          </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>MCLR Services                                                                                                                                                                                                                                                  </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.175990716221156,46.163124452327438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>26</i><br />
+      <b>adresse:</b> <i>62 avenue Edmond Grasset                                                                                                                                                                                                                                       </i><br />
+      <b>ville:</b> <i>Aytré                                                                                                                                                                                                                                                          </i><br />
+      <b>libelle:</b> <i>BLAN'CASS                                                                                                                                                                                                                                                      </i><br />
+      <b>cp:</b> <i>17440</i><br />
+]]></description>
+      <Point><coordinates>-1.168415136139288,46.163599548380688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>11</i><br />
+      <b>adresse:</b> <i>88 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>CIDF                                                                                                                                                                                                                                                           </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.168787735889773,46.169009220219444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>12</i><br />
+      <b>adresse:</b> <i>88 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Club des Chercheurs d'Emplois                                                                                                                                                                                                                                  </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.169053425725435,46.168916044429459,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>27</i><br />
+      <b>adresse:</b> <i>107 avenue Michel Crépeau                                                                                                                                                                                                                                      </i><br />
+      <b>ville:</b> <i>La Rochelle cedex 1                                                                                                                                                                                                                                            </i><br />
+      <b>libelle:</b> <i>CMA                                                                                                                                                                                                                                                            </i><br />
+      <b>cp:</b> <i>17024</i><br />
+]]></description>
+      <Point><coordinates>-1.158218928269407,46.14895843645666,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>29</i><br />
+      <b>adresse:</b> <i>40 Rue Chef de BAIE                                                                                                                                                                                                                                            </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>G.L.E Mode d'emplois                                                                                                                                                                                                                                           </i><br />
+      <b>cp:</b> <i>17001</i><br />
+]]></description>
+      <Point><coordinates>-1.199939263480654,46.154241882800861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>13</i><br />
+      <b>adresse:</b> <i>86 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle cedex 1                                                                                                                                                                                                                                            </i><br />
+      <b>libelle:</b> <i>Greta Aunis Atlantique                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17028</i><br />
+]]></description>
+      <Point><coordinates>-1.168979347484845,46.168767339957043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>30</i><br />
+      <b>adresse:</b> <i>15 rue de l'Archimède                                                                                                                                                                                                                                          </i><br />
+      <b>ville:</b> <i>La Rochelle Cedex 1                                                                                                                                                                                                                                            </i><br />
+      <b>libelle:</b> <i>ID'EES INTERIM                                                                                                                                                                                                                                                 </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.151691487125908,46.155287077912021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>31</i><br />
+      <b>adresse:</b> <i>90 rue de Bel Air                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>La Couveuse d'Entreprises                                                                                                                                                                                                                                      </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.168772052744672,46.168826090519069,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>32</i><br />
+      <b>adresse:</b> <i>21 avenue des Cordeliers                                                                                                                                                                                                                                       </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>L'ESCALE                                                                                                                                                                                                                                                       </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.14532291018115,46.163971430176311,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>33</i><br />
+      <b>adresse:</b> <i>45 rue Jacques Henry                                                                                                                                                                                                                                           </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>MISSION POPULAIRE / LA FRATERNITE                                                                                                                                                                                                                              </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.198488617888761,46.165082040792598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>34</i><br />
+      <b>adresse:</b> <i>17 rue Robert GEFFRE - ZA les Rivauds Sud                                                                                                                                                                                                                      </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>OCEAN ET BOIS                                                                                                                                                                                                                                                  </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.203993955685632,46.172575086817368,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>35</i><br />
+      <b>adresse:</b> <i>Université de La Rochelle / 23, rue Albert EINSTEIN                                                                                                                                                                                                            </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Université - Maison de la réussite                                                                                                                                                                                                                             </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.155025361722558,46.147840431454959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>36</i><br />
+      <b>adresse:</b> <i>107 avenue Michel Crépeau                                                                                                                                                                                                                                      </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Créafort                                                                                                                                                                                                                                                       </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.158152784087406,46.148955349312466,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>37</i><br />
+      <b>adresse:</b> <i>73 rue des Sauniers                                                                                                                                                                                                                                            </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Espace Gestion 17                                                                                                                                                                                                                                              </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.138347147645429,46.158051869636779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>38</i><br />
+      <b>adresse:</b> <i>40 avenue Albert Einstein                                                                                                                                                                                                                                      </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>APEC                                                                                                                                                                                                                                                           </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.156173728254731,46.148204168687329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>39</i><br />
+      <b>adresse:</b> <i>Résidence Villa Royale / 71 bis boulevard de Cognehors                                                                                                                                                                                                         </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Synergie                                                                                                                                                                                                                                                       </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.141852047283689,46.168198824971732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>40</i><br />
+      <b>adresse:</b> <i>9 place Bernard Moitessier                                                                                                                                                                                                                                     </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>Seburo                                                                                                                                                                                                                                                         </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.15100212682799,46.148685916680108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>41</i><br />
+      <b>adresse:</b> <i>3 rue Alphonse de Saintonge                                                                                                                                                                                                                                    </i><br />
+      <b>ville:</b> <i>La Rochelle                                                                                                                                                                                                                                                    </i><br />
+      <b>libelle:</b> <i>UIMM                                                                                                                                                                                                                                                           </i><br />
+      <b>cp:</b> <i>17000</i><br />
+]]></description>
+      <Point><coordinates>-1.19774088039136,46.164365267589133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <description>
+<![CDATA[
+      <b>id:</b> <i>42</i><br />
+      <b>adresse:</b> <i>37 rue du Collège                                                                                                                                                                                                                                              </i><br />
+      <b>ville:</b> <i>La Rochelle cedex                                                                                                                                                                                                                                              </i><br />
+      <b>libelle:</b> <i>Jeune Chambre Economique                                                                                                                                                                                                                                       </i><br />
+      <b>compl_adr:</b> <i>BP 42                                                                                                                                                                                                                                                          </i><br />
+      <b>cp:</b> <i>17003</i><br />
+]]></description>
+      <Point><coordinates>-1.151487223511734,46.163482734430382,0</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

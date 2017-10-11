@@ -1,0 +1,31 @@
+{
+  "took": 7,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "failed": 0
+  },
+  "hits": {
+    "total": 5000,
+    "max_score": 0,
+    "hits": []
+  },
+  "aggregations": {
+    "2": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "Muséum d'Histoire Naturelle",
+          "doc_count": 3553
+        },
+        {
+          "key": "Musée maritime",
+          "doc_count": 1447
+        }
+      ]
+    }
+  },
+  "status": 200
+}

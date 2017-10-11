@@ -1,0 +1,3487 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark erp_id="1">
+      <erp_libell>LYCEE DAUTET</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>18 rue Delayant/place de Reims</erp_adresse>
+      <erp_adres1>18</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Delayant/place de Reims</erp_adres3>
+      <Point>
+        <coordinates>-1.154273209,46.16481605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="2">
+      <erp_libell>LYCEE VALIN</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue Henri Barbusse</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Henri Barbusse</erp_adres3>
+      <Point>
+        <coordinates>-1.135715476,46.155819531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="3">
+      <erp_libell>LYCEE LEONCE VIELJEUX</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>118 rue des Gonthières</erp_adresse>
+      <erp_adres1>118</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Gonthières</erp_adres3>
+      <Point>
+        <coordinates>-1.150808148,46.177263908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="4">
+      <erp_libell>CTRE HOSPITALIER - BÂT. PRINCIPAL</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.143420683,46.159215266</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="5">
+      <erp_libell>CTRE HOSPITALIER - BÂT. ANNEXES</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.145408616,46.159407861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="6">
+      <erp_libell>CTRE HOSPITALIER - NEURO-PNEUMO ET TECHN</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.143207618,46.159377051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="7">
+      <erp_libell>HOTEL MERCURE OCEANIDE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> quai Louis Prunier</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Louis Prunier</erp_adres3>
+      <Point>
+        <coordinates>-1.149502212,46.153548756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="8">
+      <erp_libell>LYCEE ANTOINE DE ST EXUPERY - INTERNAT MODULAIRE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> allée du Maréchal de Lattre de</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>du Maréchal de Lattre de</erp_adres3>
+      <Point>
+        <coordinates>-1.179067806,46.155487194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="9">
+      <erp_libell>MAISON DES LYCEENS</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> allée du Maréchal de Lattre de</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>du Maréchal de Lattre de</erp_adres3>
+      <Point>
+        <coordinates>-1.176659315,46.155810202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="10">
+      <erp_libell>LYCEE HOTELIER</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> avenue des minimes</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.160467388,46.143814361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="11">
+      <erp_libell>CFA LE PRIEURE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue du Chateau</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Chateau</erp_adres3>
+      <Point>
+        <coordinates>-1.147454521,46.174856746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="12">
+      <erp_libell>HOTEL NOVOTEL</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>1 avenue de la Porte Neuve Parc Charruyer</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de la Porte Neuve Parc Charruyer</erp_adres3>
+      <Point>
+        <coordinates>-1.158422767,46.16087761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="13">
+      <erp_libell>L.E.P. DE ROMPSAY</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>209 avenue de Rompsay</erp_adresse>
+      <erp_adres1>209</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de Rompsay</erp_adres3>
+      <Point>
+        <coordinates>-1.126530654,46.161381577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="14">
+      <erp_libell>CLINIQUE DU MAIL</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>96 allée du Mail/67 rue Jean Gode</erp_adresse>
+      <erp_adres1>96</erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>du Mail/67 rue Jean Gode</erp_adres3>
+      <Point>
+        <coordinates>-1.169601669,46.156257688</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="15">
+      <erp_libell>HOTEL IBIS VIEILLE VILLE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>1Ter rue Fleuriau</erp_adresse>
+      <erp_adres1>1Ter</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Fleuriau</erp_adres3>
+      <Point>
+        <coordinates>-1.150940552,46.161322773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="16">
+      <erp_libell>HOTEL B and B CITY</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>140 et 142 boulevard Joffre</erp_adresse>
+      <erp_adres1>140 et 142</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Joffre</erp_adres3>
+      <Point>
+        <coordinates>-1.144331564,46.154598219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="17">
+      <erp_libell>LE ROCHELOIS</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>66 boulevard Winston Churchill</erp_adresse>
+      <erp_adres1>66</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Winston Churchill</erp_adres3>
+      <Point>
+        <coordinates>-1.182628422,46.154114957</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="18">
+      <erp_libell>HOTEL TRIANON</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>6 rue de la Monnaie</erp_adresse>
+      <erp_adres1>6</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Monnaie</erp_adres3>
+      <Point>
+        <coordinates>-1.15833288,46.156352701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="19">
+      <erp_libell>HOTEL ST NICOLAS  BAT. PRINCIPAL</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>13 rue de la Sardinerie</erp_adresse>
+      <erp_adres1>13</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Sardinerie</erp_adres3>
+      <Point>
+        <coordinates>-1.148832887,46.158095672</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="20">
+      <erp_libell>HOTEL  ALTICA</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>51 Rue de la Scierie - ZA Les Minimes</erp_adresse>
+      <erp_adres1>51</erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>de la Scierie - ZA Les Minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.152667823,46.147182183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="21">
+      <erp_libell>MASQ'HÔTEL</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>17 rue de l'ouvrage à cornes</erp_adresse>
+      <erp_adres1>17</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de l'ouvrage à cornes</erp_adres3>
+      <Point>
+        <coordinates>-1.144991373,46.154882323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="22">
+      <erp_libell>HOTEL SAINT JEAN D'ACRE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>3 rue Saint Jean du Pérot</erp_adresse>
+      <erp_adres1>3</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Jean du Pérot</erp_adres3>
+      <Point>
+        <coordinates>-1.154665497,46.156498928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="23">
+      <erp_libell>HOTEL IBIS GROSSE HORLOGE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4 rue Léonce Vieljeux</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Léonce Vieljeux</erp_adres3>
+      <Point>
+        <coordinates>-1.154123339,46.158025749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="24">
+      <erp_libell> HOTEL-RESTAURANT IBIS  VIEUX PORT</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> Place du Commandant de la Motte Rouge</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Place</erp_adres2>
+      <erp_adres3>du Commandant de la Motte Rouge</erp_adres3>
+      <Point>
+        <coordinates>-1.148434877,46.155982423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="25">
+      <erp_libell> HOTEL   ETAP HÔTEL</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue de Périgny</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Périgny</erp_adres3>
+      <Point>
+        <coordinates>-1.140259496,46.157553531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="26">
+      <erp_libell>HÔTEL LE YACHTMAN</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>23 quai Valin</erp_adresse>
+      <erp_adres1>23</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Valin</erp_adres3>
+      <Point>
+        <coordinates>-1.149922257,46.157299324</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="27">
+      <erp_libell>LYCEE MARITIME AQUACOLE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> Avenue du Maréchal Juin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Avenue</erp_adres2>
+      <erp_adres3>du Maréchal Juin</erp_adres3>
+      <Point>
+        <coordinates>-1.180399846,46.154948803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="28">
+      <erp_libell>MAISON DE RETRAITE-FOYER PERSONNES AGEES DU CHAMP DE MARS</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>1  avenue du Champ de Mars</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2></erp_adres2>
+      <erp_adres3>avenue du Champ de Mars</erp_adres3>
+      <Point>
+        <coordinates>-1.150452305,46.169769416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="29">
+      <erp_libell>HOPITAL MARIUS LACROIX ROCHER N°26</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>208 avenue Marius Lacroix</erp_adresse>
+      <erp_adres1>208</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Marius Lacroix</erp_adres3>
+      <Point>
+        <coordinates>-1.137262779,46.175358623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="30">
+      <erp_libell>HOPITAL MARIUS LACROIX BAT PRINCIPAL</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>208 avenue Marius Lacroix</erp_adresse>
+      <erp_adres1>208</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Marius Lacroix</erp_adres3>
+      <Point>
+        <coordinates>-1.136048336,46.175956776</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="31">
+      <erp_libell>CENTRE DE READAPTATION FONCTIONNELLE DE LA CROIX ROUGE</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>37 rue Philippe Vincent</erp_adresse>
+      <erp_adres1>37</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Philippe Vincent</erp_adres3>
+      <Point>
+        <coordinates>-1.175252331,46.153779476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="32">
+      <erp_libell>A.P.A.J.H</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue  Jean Bouche</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3> Jean Bouche</erp_adres3>
+      <Point>
+        <coordinates>-1.142757171,46.15094989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="33">
+      <erp_libell>RESIDENCE MEDICALISEE DES MINIMES</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>1 rue Lucile</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Lucile</erp_adres3>
+      <Point>
+        <coordinates>-1.165658842,46.139982618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="34">
+      <erp_libell>MATERNITE DE L' HOPITAL SAINT LOUIS</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue Thiers</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Thiers</erp_adres3>
+      <Point>
+        <coordinates>-1.144556606,46.160794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="35">
+      <erp_libell>MAISON DE RETRAITE MASSIOU EHPAD</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4 rue  Massiou</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3> Massiou</erp_adres3>
+      <Point>
+        <coordinates>-1.147291019,46.164576407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="36">
+      <erp_libell>MAISON DE RETRAITE DU CTRE HOSPITALIER</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue  du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3> du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.144992742,46.160573815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="37">
+      <erp_libell>MAISON DE RETRAITE CLAIRE FONTAINE</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>6 rue du Gué</erp_adresse>
+      <erp_adres1>6</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Gué</erp_adres3>
+      <Point>
+        <coordinates>-1.14056866,46.17757982</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="38">
+      <erp_libell>CTRE HOSPITALIER INTERNAT BAT M CAMPSEA</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.145912347,46.159381861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="39">
+      <erp_libell>FOYER D'ACCUEIL SAINT ELOI</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>15-17 Rue Elisabeth Tible</erp_adresse>
+      <erp_adres1>15-17</erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>Elisabeth Tible</erp_adres3>
+      <Point>
+        <coordinates>-1.125939666,46.166848189</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="40">
+      <erp_libell>FOYER D'ACCUEIL LE SUROIT</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>18 Rue du 19 mars</erp_adresse>
+      <erp_adres1>18</erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>du 19 mars</erp_adres3>
+      <Point>
+        <coordinates>-1.13307184,46.169764549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="41">
+      <erp_libell>HOTEL DE LA MARINE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>30 quai Duperré</erp_adresse>
+      <erp_adres1>30</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Duperré</erp_adres3>
+      <Point>
+        <coordinates>-1.152720937,46.158232968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="42">
+      <erp_libell>HOTEL CHAMPLAIN</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>20 rue Rambaud</erp_adresse>
+      <erp_adres1>20</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Rambaud</erp_adres3>
+      <Point>
+        <coordinates>-1.154207435,46.163543383</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="43">
+      <erp_libell>PEP 17 - UNITÉ DE VIE FETILLY - ITEP DE L'AUNIS</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>6 Impasse de Fétilly</erp_adresse>
+      <erp_adres1>6</erp_adres1>
+      <erp_adres2>Impasse</erp_adres2>
+      <erp_adres3>de Fétilly</erp_adres3>
+      <Point>
+        <coordinates>-1.157854969,46.173591476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="44">
+      <erp_libell>HOTEL DE LA MONNAIE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>3 rue de la Monnaie</erp_adresse>
+      <erp_adres1>3</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Monnaie</erp_adres3>
+      <Point>
+        <coordinates>-1.157806436,46.156181426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="45">
+      <erp_libell>EHPAD ASSOCIATION ESCALE</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>14 rue Saint Louis</erp_adresse>
+      <erp_adres1>14</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Louis</erp_adres3>
+      <Point>
+        <coordinates>-1.145440954,46.161134302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="46">
+      <erp_libell>HOTEL LES BRISES</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>17 chemin de la Digue Richelieu</erp_adresse>
+      <erp_adres1>17</erp_adres1>
+      <erp_adres2>chemin</erp_adres2>
+      <erp_adres3>de la Digue Richelieu</erp_adres3>
+      <Point>
+        <coordinates>-1.174159671,46.153140428</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="47">
+      <erp_libell>HOTEL HENRI IV</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>31 rue des Gentilshommes/place Caille</erp_adresse>
+      <erp_adres1>31</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Gentilshommes/place Caille</erp_adres3>
+      <Point>
+        <coordinates>-1.151566667,46.158990857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="48">
+      <erp_libell>HOTEL-RESTAURANT LE LYAUTEY</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>2 boulevard du Maréchal Lyautey</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>du Maréchal Lyautey</erp_adres3>
+      <Point>
+        <coordinates>-1.202815812,46.161868713</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="49">
+      <erp_libell>HOTEL DES GENS DE LA MER</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>20 avenue du Général de Gaulle</erp_adresse>
+      <erp_adres1>20</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Général de Gaulle</erp_adres3>
+      <Point>
+        <coordinates>-1.14762541,46.154086921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="50">
+      <erp_libell>HOTEL-RESTAURANT L'AQUARELLE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>26 boulevard du Maréchal Lyautey</erp_adresse>
+      <erp_adres1>26</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>du Maréchal Lyautey</erp_adres3>
+      <Point>
+        <coordinates>-1.205426797,46.161631664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="51">
+      <erp_libell>CERCLE MIXTE DE GARNISON DU 519ÈME</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>8 rue des Cordeliers</erp_adresse>
+      <erp_adres1>8</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Cordeliers</erp_adres3>
+      <Point>
+        <coordinates>-1.142562036,46.163244745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="52">
+      <erp_libell>FOYER DES CORDELIERS</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>21 avenue des Cordeliers</erp_adresse>
+      <erp_adres1>21</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des Cordeliers</erp_adres3>
+      <Point>
+        <coordinates>-1.145253482,46.163999353</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="53">
+      <erp_libell>HOTEL DE BORDEAUX</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>43 rue Saint Nicolas</erp_adresse>
+      <erp_adres1>43</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Nicolas</erp_adres3>
+      <Point>
+        <coordinates>-1.149147787,46.157041565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="54">
+      <erp_libell>AXE HOTEL (EX HOTEL ARRIVEE DES VOYAGEURS)</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>5 rue de la Fabrique</erp_adresse>
+      <erp_adres1>5</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Fabrique</erp_adres3>
+      <Point>
+        <coordinates>-1.149020227,46.156121425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="55">
+      <erp_libell>HOTEL TERMINUS</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>7 rue de la Fabrique</erp_adresse>
+      <erp_adres1>7</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Fabrique</erp_adres3>
+      <Point>
+        <coordinates>-1.148646374,46.156163738</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="56">
+      <erp_libell>HOTEL SAVARY</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>2bis rue Alsace Lorraine</erp_adresse>
+      <erp_adres1>2bis</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Alsace Lorraine</erp_adres3>
+      <Point>
+        <coordinates>-1.170610626,46.157999344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="57">
+      <erp_libell>FAST HOTEL</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>20 rue Alfred Kastler</erp_adresse>
+      <erp_adres1>20</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Alfred Kastler</erp_adres3>
+      <Point>
+        <coordinates>-1.160927184,46.140112118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="58">
+      <erp_libell>HOTEL FRANCOIS 1ER</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>13 et 15 rue Bazoges</erp_adresse>
+      <erp_adres1>13 et 15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Bazoges</erp_adres3>
+      <Point>
+        <coordinates>-1.151791207,46.160857397</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="59">
+      <erp_libell>HOTEL DE PARIS</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>18 rue Gargoulleau</erp_adresse>
+      <erp_adres1>18</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Gargoulleau</erp_adres3>
+      <Point>
+        <coordinates>-1.15109449,46.161988731</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="60">
+      <erp_libell>HOTEL DE LA PAIX</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>14 rue Gargoulleau</erp_adresse>
+      <erp_adres1>14</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Gargoulleau</erp_adres3>
+      <Point>
+        <coordinates>-1.150896468,46.161983729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="61">
+      <erp_libell>HOTEL-BAR DE L'HOTEL DE VILLE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>5 rue Saint Yon</erp_adresse>
+      <erp_adres1>5</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Yon</erp_adres3>
+      <Point>
+        <coordinates>-1.151402848,46.1600524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="62">
+      <erp_libell>HOTEL LE MANOIR</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>8bis avenue du Général Leclerc</erp_adresse>
+      <erp_adres1>8bis</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Général Leclerc</erp_adres3>
+      <Point>
+        <coordinates>-1.160604175,46.162832508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="63">
+      <erp_libell>HOTEL DE L'OCEAN</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>36 cours des Dames</erp_adresse>
+      <erp_adres1>36</erp_adres1>
+      <erp_adres2>cours</erp_adres2>
+      <erp_adres3>des Dames</erp_adres3>
+      <Point>
+        <coordinates>-1.154182953,46.157072997</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="64">
+      <erp_libell>HOTEL-RESTAURANT LA JETEE SUD (EX LE BLE D'OR)</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>198 boulevard Emile Delmas</erp_adresse>
+      <erp_adres1>198</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Emile Delmas</erp_adres3>
+      <Point>
+        <coordinates>-1.221246086,46.160607138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="65">
+      <erp_libell>HOTEL ALIZEA</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>207 avenue  Guiton</erp_adresse>
+      <erp_adres1>207</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3> Guiton</erp_adres3>
+      <Point>
+        <coordinates>-1.175751944,46.161156046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="66">
+      <erp_libell>HOTEL ATLANTIC</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>23 rue Verdière</erp_adresse>
+      <erp_adres1>23</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Verdière</erp_adres3>
+      <Point>
+        <coordinates>-1.155137538,46.157346111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="67">
+      <erp_libell>HOTEL SAINT NICOLAS ANNEXE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>2 Place de la Solette</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>Place</erp_adres2>
+      <erp_adres3>de la Solette</erp_adres3>
+      <Point>
+        <coordinates>-1.14906982,46.15823689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="68">
+      <erp_libell>UN HOTEL EN VILLE (EX HOTEL DES SPORTS)</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>20 place du Maréchal Foch</erp_adresse>
+      <erp_adres1>20</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du Maréchal Foch</erp_adres3>
+      <Point>
+        <coordinates>-1.156334635,46.15718993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="69">
+      <erp_libell>CAFE DE LA PLACE (EX HOTEL-REST DE JEAN-PIERRE)</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>15 rue du Docteur Bigois</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Bigois</erp_adres3>
+      <Point>
+        <coordinates>-1.204403657,46.162563548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="70">
+      <erp_libell>HOTEL RESTAURANT LE POPULAIRE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>4 rue d'Ottawa</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>d'Ottawa</erp_adres3>
+      <Point>
+        <coordinates>-1.205577971,46.163220996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="71">
+      <erp_libell>HOTEL RESTAURANT RUPELLA</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>1 quai Maubec</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Maubec</erp_adres3>
+      <Point>
+        <coordinates>-1.151021054,46.158299543</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="72">
+      <erp_libell>HOTEL KYRIAD (ANCIEN ALIENOR)</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>51 rue de Perigny</erp_adresse>
+      <erp_adres1>51</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Perigny</erp_adres3>
+      <Point>
+        <coordinates>-1.138834504,46.157759413</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="73">
+      <erp_libell>HOTEL RESTAURANT LE CAMPANILE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>2 rue Yvonne Salomon</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Yvonne Salomon</erp_adres3>
+      <Point>
+        <coordinates>-1.12110257,46.16968293</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="74">
+      <erp_libell>HÔTEL DE LA TOUR DE NESLE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>2 quai Louis Durand</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Louis Durand</erp_adres3>
+      <Point>
+        <coordinates>-1.15041539,46.158034295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="75">
+      <erp_libell>HOTEL LES ROSIERS</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>56 et 58 boulevard André Sautel</erp_adresse>
+      <erp_adres1>56 et 58</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>André Sautel</erp_adres3>
+      <Point>
+        <coordinates>-1.133690365,46.167548085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="76">
+      <erp_libell>HOTEL RESIDENCE DE FRANCE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>43 rue du Minage</erp_adresse>
+      <erp_adres1>43</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Minage</erp_adres3>
+      <Point>
+        <coordinates>-1.15105236,46.162771823</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="77">
+      <erp_libell>LA COURSIVE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue Saint Jean du Pérot</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Jean du Pérot</erp_adres3>
+      <Point>
+        <coordinates>-1.154832782,46.156668482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="78">
+      <erp_libell>COMPLEXE CINEMA MEGA C.G.R</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue Becquerel - Les Minimes</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Becquerel - Les Minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.154127834,46.147031164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="79">
+      <erp_libell> CENTRE COMMERCIAL   LECLERC</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>124 boulevard Sautel</erp_adresse>
+      <erp_adres1>124</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Sautel</erp_adres3>
+      <Point>
+        <coordinates>-1.126357855,46.169160494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="80">
+      <erp_libell>BODEGA STADE ROCHELAIS</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>27 avenue Maréchal Juin</erp_adresse>
+      <erp_adres1>27</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Maréchal Juin</erp_adres3>
+      <Point>
+        <coordinates>-1.179520281,46.158254265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="81">
+      <erp_libell>ECOLE SUPERIEURE DE COMMERCE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>102 rue des Coureilles</erp_adresse>
+      <erp_adres1>102</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Coureilles</erp_adres3>
+      <Point>
+        <coordinates>-1.156196283,46.14071542</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="82">
+      <erp_libell>FACULTE DE LANGUES   FLASH</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>1 Parvis Fernand Braudel</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>Parvis</erp_adres2>
+      <erp_adres3>Fernand Braudel</erp_adres3>
+      <Point>
+        <coordinates>-1.153301101,46.152081168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="83">
+      <erp_libell>FACULTE DE SCIENCES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> avenue Michel Crépeau</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Michel Crépeau</erp_adres3>
+      <Point>
+        <coordinates>-1.158030435,46.146360899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="84">
+      <erp_libell>CTRE HOSPITALIER - CUISINE CENTRALE</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.142638613,46.159854819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="85">
+      <erp_libell>CATHEDRALE</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> place de Verdun</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de Verdun</erp_adres3>
+      <Point>
+        <coordinates>-1.153261815,46.161644541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="86">
+      <erp_libell> AQUARIUM</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> Quai Louis Prunier</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Quai</erp_adres2>
+      <erp_adres3>Louis Prunier</erp_adres3>
+      <Point>
+        <coordinates>-1.150645244,46.153449257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="87">
+      <erp_libell>GARE SNCF</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> place Pierre Semard</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Pierre Semard</erp_adres3>
+      <Point>
+        <coordinates>-1.14558518,46.152802002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="88">
+      <erp_libell>AEROGARE DE LA ROCHELLE - ILE DE RÉ</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue du Jura</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Jura</erp_adres3>
+      <Point>
+        <coordinates>-1.19452121,46.17612639</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="89">
+      <erp_libell>CINEMA OLYMPIA</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>54 rue Chaudrier</erp_adresse>
+      <erp_adres1>54</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Chaudrier</erp_adres3>
+      <Point>
+        <coordinates>-1.152262472,46.162613995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="90">
+      <erp_libell>CINEMA LE DRAGON</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>8 cours des Dames</erp_adresse>
+      <erp_adres1>8</erp_adres1>
+      <erp_adres2>cours</erp_adres2>
+      <erp_adres3>des Dames</erp_adres3>
+      <Point>
+        <coordinates>-1.153669149,46.157703867</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="91">
+      <erp_libell>LA MAISON DE L'ETUDIANT</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>22 rue Cardinal</erp_adresse>
+      <erp_adres1>22</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Cardinal</erp_adres3>
+      <Point>
+        <coordinates>-1.155550001,46.151970733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="92">
+      <erp_libell>PHARMACIE (INTERMARCHE LA PALLICE)</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>21 rue Eugène d'Or  La Pallice</erp_adresse>
+      <erp_adres1>21</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Eugène d'Or  La Pallice</erp_adres3>
+      <Point>
+        <coordinates>-1.207935535,46.163019454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="93">
+      <erp_libell>INTERMARCHE LA PALLICE</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>21 rue Eugène Dor  La Pallice</erp_adresse>
+      <erp_adres1>21</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Eugène Dor  La Pallice</erp_adres3>
+      <Point>
+        <coordinates>-1.208434093,46.163087688</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="94">
+      <erp_libell>SUPERMARCHE   SUPER U</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> place de l'Europe</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de l'Europe</erp_adres3>
+      <Point>
+        <coordinates>-1.180332686,46.167269799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="95">
+      <erp_libell>MAGASIN MONOPRIX</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>30-36 rue du Palais</erp_adresse>
+      <erp_adres1>30-36</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Palais</erp_adres3>
+      <Point>
+        <coordinates>-1.154053789,46.158751856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="96">
+      <erp_libell>MAGASIN  GAILLARD</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>178 boulevard Denfert Rochereau</erp_adresse>
+      <erp_adres1>178</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Denfert Rochereau</erp_adres3>
+      <Point>
+        <coordinates>-1.20290022,46.164323253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="97">
+      <erp_libell>COLLÈGE FABRE D'ÉGLANTINE BAT PRINCIPAL</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>4 rue fabre d'églantine</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>fabre d'églantine</erp_adres3>
+      <Point>
+        <coordinates>-1.1169081,46.152288115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="98">
+      <erp_libell>MAGASIN INTERMARCHE VDS - BAT PRINCIPAL</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> avenue du 14 Juillet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du 14 Juillet</erp_adres3>
+      <Point>
+        <coordinates>-1.126207526,46.152245682</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="99">
+      <erp_libell>MAGASIN INTERMARCHE LAFOND</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue  du Château</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3> du Château</erp_adres3>
+      <Point>
+        <coordinates>-1.146204723,46.17463315</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="100">
+      <erp_libell>MAGASIN GALERIES LAFAYETTE</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>31 rue du Palais</erp_adresse>
+      <erp_adres1>31</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Palais</erp_adres3>
+      <Point>
+        <coordinates>-1.153632989,46.159183989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="101">
+      <erp_libell>POLE COMMUNICATION-MULTIMEDIA</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>44 Avenue Albert Einstein</erp_adresse>
+      <erp_adres1>44</erp_adres1>
+      <erp_adres2>Avenue</erp_adres2>
+      <erp_adres3>Albert Einstein</erp_adres3>
+      <Point>
+        <coordinates>-1.156732797,46.148124554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="102">
+      <erp_libell>RESTAURANT UNIVERSITAIRE</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>90 boulevard de la République</erp_adresse>
+      <erp_adres1>90</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>de la République</erp_adres3>
+      <Point>
+        <coordinates>-1.151762261,46.138756623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="103">
+      <erp_libell>LYCEE ANTOINE DE ST EXUPERY - BÂT PRINCIPAL</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> allée du Maréchal de Lattre de</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>du Maréchal de Lattre de</erp_adres3>
+      <Point>
+        <coordinates>-1.176966922,46.15609498</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="104">
+      <erp_libell>ENSEMBLE SCOLAIRE FENELON NOTRE DAME "MASSIOU"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>36 rue Massiou</erp_adresse>
+      <erp_adres1>36</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Massiou</erp_adres3>
+      <Point>
+        <coordinates>-1.150171964,46.165247554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="105">
+      <erp_libell>ENSEMBLE SCOLAIRE FENELON NOTRE DAME "CHASSELOUP LAUBAT"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>7 rue Chasseloup Laubat</erp_adresse>
+      <erp_adres1>7</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Chasseloup Laubat</erp_adres3>
+      <Point>
+        <coordinates>-1.151789362,46.166264729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="106">
+      <erp_libell>COLLEGE BEAUREGARD BAT PRINCIPAL</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue de l'Artillerie</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de l'Artillerie</erp_adres3>
+      <Point>
+        <coordinates>-1.133387722,46.171236579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="107">
+      <erp_libell>COLLEGE FROMENTIN</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>2 rue Jaillot</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Jaillot</erp_adres3>
+      <Point>
+        <coordinates>-1.15085183,46.164008063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="108">
+      <erp_libell>LYCEE PIERRE DORIOLE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>221 avenue de Périgny/Rompsay</erp_adresse>
+      <erp_adres1>221</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de Périgny/Rompsay</erp_adres3>
+      <Point>
+        <coordinates>-1.125087401,46.161890566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="109">
+      <erp_libell>FACULTE DE DROIT</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>45 rue Francois Vaux de Foletier</erp_adresse>
+      <erp_adres1>45</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Francois Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.153390335,46.139034729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="110">
+      <erp_libell>E.I.G.S.I.</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>26 rue Francois Vaux de Foletier</erp_adresse>
+      <erp_adres1>26</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Francois Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.154393991,46.139479971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="111">
+      <erp_libell>POLE DE  MANAGEMENT DE L'UNIVERSITÉ</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>39 rue François de Vaux de Foletier</erp_adresse>
+      <erp_adres1>39</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>François de Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.152592799,46.139649075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="112">
+      <erp_libell>MAISON DES SCIENCES DE L'INGENIEUR</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> avenue Henri Becquerel</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Henri Becquerel</erp_adres3>
+      <Point>
+        <coordinates>-1.155781566,46.146884106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="113">
+      <erp_libell>BIBLIOTHEQUE UNIVERSITAIRE</erp_libell>
+      <erp_type>Bilbliothèque, centre de documentation</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue du Loup Marin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Loup Marin</erp_adres3>
+      <Point>
+        <coordinates>-1.153388151,46.152614001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="114">
+      <erp_libell>MEDIATHEQUE MICHEL CREPEAU</erp_libell>
+      <erp_type>Bilbliothèque, centre de documentation</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> avenue Michel Crépeau</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Michel Crépeau</erp_adres3>
+      <Point>
+        <coordinates>-1.153388276,46.153061061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="115">
+      <erp_libell>MAISON  DU DEPARTEMENT</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>85 Bd de la République Bellevue - Quatre Vents - Les Minimes</erp_adresse>
+      <erp_adres1>85</erp_adres1>
+      <erp_adres2>Bd de la République</erp_adres2>
+      <erp_adres3>Bellevue - Quatre Vents - Les Minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.151720456,46.137777222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="116">
+      <erp_libell>BOWLING</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue de la trinquette</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la trinquette</erp_adres3>
+      <Point>
+        <coordinates>-1.160415037,46.144686503</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="117">
+      <erp_libell>LA MAISON DES METIERS</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>107 avenue Michel Crépeau</erp_adresse>
+      <erp_adres1>107</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Michel Crépeau</erp_adres3>
+      <Point>
+        <coordinates>-1.158188268,46.148969944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="118">
+      <erp_libell>COLLÈGE FABRE D'ÉGLANTINE - GYMNASE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>4 rue fabre d'églantine</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>fabre d'églantine</erp_adres3>
+      <Point>
+        <coordinates>-1.115184759,46.151600566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="119">
+      <erp_libell>MAGASIN DE VENTE LIDL</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> avenue Billaud Varenne</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Billaud Varenne</erp_adres3>
+      <Point>
+        <coordinates>-1.121837042,46.151407789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="120">
+      <erp_libell>MAGASIN  EURODIF</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>40 rue des Merciers</erp_adresse>
+      <erp_adres1>40</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Merciers</erp_adres3>
+      <Point>
+        <coordinates>-1.15002139,46.16066821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="121">
+      <erp_libell>RESIDENCE DE FRANCE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>43 rue du Minage</erp_adresse>
+      <erp_adres1>43</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Minage</erp_adres3>
+      <Point>
+        <coordinates>-1.151211083,46.162478613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="122">
+      <erp_libell>RESTAURANT ANDRE</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>5 rue Saint Jean du Perrot</erp_adresse>
+      <erp_adres1>5</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Jean du Perrot</erp_adres3>
+      <Point>
+        <coordinates>-1.154747345,46.156464114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="123">
+      <erp_libell>RESTAURANT UNIVERSITAIRE ANTINEA</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>15 rue Vaux de Foletier</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.152654206,46.141296291</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="124">
+      <erp_libell>DISCOTHEQUE  LE PARADISE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>139 boulevard André Sautel</erp_adresse>
+      <erp_adres1>139</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>André Sautel</erp_adres3>
+      <Point>
+        <coordinates>-1.127657341,46.169854465</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="125">
+      <erp_libell>RESIDENCE CLUB LAFAYETTE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> avenue de Bourgogne</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de Bourgogne</erp_adres3>
+      <Point>
+        <coordinates>-1.184557225,46.154682831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="126">
+      <erp_libell> DISCOTHEQUE   L'OXFORD</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> plage de la Concurrence</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>plage</erp_adres2>
+      <erp_adres3>de la Concurrence</erp_adres3>
+      <Point>
+        <coordinates>-1.160162667,46.155503705</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="127">
+      <erp_libell>RESTAURANT UNIVERSITAIRE VESPUCCI</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue du Loup Marin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Loup Marin</erp_adres3>
+      <Point>
+        <coordinates>-1.15412226,46.15203881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="128">
+      <erp_libell> COLLEGE MISSY</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>9 rue Bois l'Epine</erp_adresse>
+      <erp_adres1>9</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Bois l'Epine</erp_adres3>
+      <Point>
+        <coordinates>-1.172480854,46.161793871</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="129">
+      <erp_libell>IUFM</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>49 avenue Aristide Briand</erp_adresse>
+      <erp_adres1>49</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Aristide Briand</erp_adres3>
+      <Point>
+        <coordinates>-1.164950796,46.166206486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="130">
+      <erp_libell>I U T</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>15 rue Francois Vaux de Foletier</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Francois Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.151934506,46.141823551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="131">
+      <erp_libell>ECOLE NATIONALE DE BRIGADE DES DOUANES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue du Jura - Laleu</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Jura - Laleu</erp_adres3>
+      <Point>
+        <coordinates>-1.198958596,46.174682379</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="132">
+      <erp_libell>MAISON DE L'EMPLOI POLE DE BEL AIR</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>72 rue de Bel Air</erp_adresse>
+      <erp_adres1>72</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Bel Air</erp_adres3>
+      <Point>
+        <coordinates>-1.169262369,46.168874407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="133">
+      <erp_libell>TECHNOFORUM</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>23 rue Albert Einstein</erp_adresse>
+      <erp_adres1>23</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Albert Einstein</erp_adres3>
+      <Point>
+        <coordinates>-1.154822332,46.147814197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="134">
+      <erp_libell>ARCHIVES DEPARTEMENTALES</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>35 rue Vaux de Foletier</erp_adresse>
+      <erp_adres1>35</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Vaux de Foletier</erp_adres3>
+      <Point>
+        <coordinates>-1.153183835,46.140482423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="135">
+      <erp_libell>CHAMBRE DE COMMERCE ET D'INDUSTRIE</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> 21 à 35 chemin du Prieuré</erp_adresse>
+      <erp_adres1> 21 à 35</erp_adres1>
+      <erp_adres2>chemin</erp_adres2>
+      <erp_adres3>du Prieuré</erp_adres3>
+      <Point>
+        <coordinates>-1.149721851,46.172341913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="136">
+      <erp_libell>PORT DE PECHE</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>  Chef de Baie</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2></erp_adres2>
+      <erp_adres3>Chef de Baie</erp_adres3>
+      <Point>
+        <coordinates>-1.220591394,46.148091408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="137">
+      <erp_libell>EGLISE SAINTE JEANNE D'ARC</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue du Faisan</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Faisan</erp_adres3>
+      <Point>
+        <coordinates>-1.155587478,46.171631614</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="138">
+      <erp_libell>CITE ADMINISTRATIVE CHASSELOUP LAUBAT</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue Chasseloup Laubat</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Chasseloup Laubat</erp_adres3>
+      <Point>
+        <coordinates>-1.151481405,46.166767352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="139">
+      <erp_libell>GYMNASE SOUS LIEUTENANT RUIBET</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue Rempart des Voiliers</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Rempart des Voiliers</erp_adres3>
+      <Point>
+        <coordinates>-1.145236696,46.166172807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="140">
+      <erp_libell>COLLEGE PIERRE MENDES FRANCE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> avenue du Luxembourg</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue du</erp_adres2>
+      <erp_adres3>Luxembourg</erp_adres3>
+      <Point>
+        <coordinates>-1.178674182,46.16893583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="141">
+      <erp_libell>MAGASIN ED</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>178 rue Emile Normandin</erp_adresse>
+      <erp_adres1>178</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Emile Normandin</erp_adres3>
+      <Point>
+        <coordinates>-1.138634577,46.141137294</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="142">
+      <erp_libell>SALLE DE LA TROMPETTE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>132bis avenue du Lieutenant-Colonel Bernier</erp_adresse>
+      <erp_adres1>132bis</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Lieutenant-Colonel Bernier</erp_adres3>
+      <Point>
+        <coordinates>-1.158569358,46.170507486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="143">
+      <erp_libell>CAFE THEATRE L'AZILE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>29 rue Debussy</erp_adresse>
+      <erp_adres1>29</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Debussy</erp_adres3>
+      <Point>
+        <coordinates>-1.136109695,46.159442658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="144">
+      <erp_libell>HOTEL DE VILLE</erp_libell>
+      <erp_type>Administration, banque, bureaux</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> place de l'Hotel de ville</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de l'Hotel de ville</erp_adres3>
+      <Point>
+        <coordinates>-1.151258846,46.159599125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="145">
+      <erp_libell>SALLES DES JACOBINS</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> place Cacaud</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Cacaud</erp_adres3>
+      <Point>
+        <coordinates>-1.147026557,46.163191597</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="146">
+      <erp_libell>ECOLE PRIMAIRE VALIN ET MATERNELLE REY</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> cours LADAUGE</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>cours</erp_adres2>
+      <erp_adres3>LADAUGE</erp_adres3>
+      <Point>
+        <coordinates>-1.148507241,46.157624141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="147">
+      <erp_libell>ECOLE MATERNELLE ARCERE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>1 rue ARCERE</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>ARCERE</erp_adres3>
+      <Point>
+        <coordinates>-1.15125719,46.164055348</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="148">
+      <erp_libell>ECOLE MASSIOU</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>26 rue Massiou</erp_adresse>
+      <erp_adres1>26</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Massiou</erp_adres3>
+      <Point>
+        <coordinates>-1.149208883,46.165009761</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="149">
+      <erp_libell>MAGASIN MARCHE PLUS CARREFOUR</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>2 rue du Minage</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Minage</erp_adres3>
+      <Point>
+        <coordinates>-1.149657804,46.162665435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="150">
+      <erp_libell>MAGASIN EURODIF</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4 rue du Palais</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Palais</erp_adres3>
+      <Point>
+        <coordinates>-1.153629686,46.160078551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="151">
+      <erp_libell>LA FACTORY II</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>41 rue de la Scierie</erp_adresse>
+      <erp_adres1>41</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Scierie</erp_adres3>
+      <Point>
+        <coordinates>-1.152836742,46.147948395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="152">
+      <erp_libell>DISCOTHÈQUE LE FEVER</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue du Lazaret</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Lazaret</erp_adres3>
+      <Point>
+        <coordinates>-1.167630862,46.141655927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="153">
+      <erp_libell>DISCOTHEQUE LA COTTE DE MAILLES</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>10 rue Admyrault</erp_adresse>
+      <erp_adres1>10</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Admyrault</erp_adres3>
+      <Point>
+        <coordinates>-1.154432574,46.159643034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="154">
+      <erp_libell>BAR - SALLE DE BILLARD   LE SNOOKER</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>12 rue Alfred Kastler</erp_adresse>
+      <erp_adres1>12</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Alfred Kastler</erp_adres3>
+      <Point>
+        <coordinates>-1.161449303,46.140623151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="155">
+      <erp_libell>LE PIANO PUB  ET LE KGB</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>12 et 14 cour du Temple</erp_adresse>
+      <erp_adres1>12 et 14</erp_adres1>
+      <erp_adres2>cour</erp_adres2>
+      <erp_adres3>du Temple</erp_adres3>
+      <Point>
+        <coordinates>-1.152940506,46.159015858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="156">
+      <erp_libell>RESTAURANT LES COMEDIENS - BAR LE K</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>15 rue de la Chaine</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Chaine</erp_adres3>
+      <Point>
+        <coordinates>-1.155253106,46.155953311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="157">
+      <erp_libell>BAR RESTAURANT DISCOTHEQUE LE SET (EX BAR LE TUXEDO)</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>21 bis place du Maréchal Foch</erp_adresse>
+      <erp_adres1>21 bis</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du Maréchal Foch</erp_adres3>
+      <Point>
+        <coordinates>-1.156896162,46.156789781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="158">
+      <erp_libell>BAR-PUB THE GENERAL HUMBERT'S (SARL KILLALA)</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>14 rue Saint Nicolas</erp_adresse>
+      <erp_adres1>14</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Nicolas</erp_adres3>
+      <Point>
+        <coordinates>-1.149581124,46.15767381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="159">
+      <erp_libell>BAR-COKTAIL MUSIC-HALL COHIBA</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4  rue Balangerie</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2></erp_adres2>
+      <erp_adres3>rue Balangerie</erp_adres3>
+      <Point>
+        <coordinates>-1.156789903,46.15670718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="160">
+      <erp_libell>LE TRIOLET</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>8 rue des Carmes</erp_adresse>
+      <erp_adres1>8</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Carmes</erp_adres3>
+      <Point>
+        <coordinates>-1.154936538,46.157130461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="161">
+      <erp_libell>GRETA</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>72 rue de Bel Air</erp_adresse>
+      <erp_adres1>72</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Bel Air</erp_adres3>
+      <Point>
+        <coordinates>-1.168849697,46.168431202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="162">
+      <erp_libell>CTRE HOSPITALIER - IFSI et BAT.M</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue du Docteur Schweitzer</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Docteur Schweitzer</erp_adres3>
+      <Point>
+        <coordinates>-1.145563591,46.158999482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="163">
+      <erp_libell>GROUPE SCOLAIRE BERNARD PALISSY</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>37 rue Dupleix</erp_adresse>
+      <erp_adres1>37</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Dupleix</erp_adres3>
+      <Point>
+        <coordinates>-1.162891406,46.169930519</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="164">
+      <erp_libell>GROUPE SCOLAIRE DESCARTES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue DU MARECHAL JUIN</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>DU MARECHAL JUIN</erp_adres3>
+      <Point>
+        <coordinates>-1.182845453,46.155056841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="165">
+      <erp_libell>FORUM DES PERTUIS</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> Digue du lazaret</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Digue</erp_adres2>
+      <erp_adres3>du lazaret</erp_adres3>
+      <Point>
+        <coordinates>-1.172306931,46.144556134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="166">
+      <erp_libell>GROUPE SCOLAIRE PIERRE LOTI MATERNELLE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>14 avenue Pierre Loti</erp_adresse>
+      <erp_adres1>14</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Pierre Loti</erp_adres3>
+      <Point>
+        <coordinates>-1.175862275,46.162517501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="167">
+      <erp_libell>GROUPE SCOLAIRE CLAUDE NICOLAS</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue Nicolas Denys</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Nicolas Denys</erp_adres3>
+      <Point>
+        <coordinates>-1.211765638,46.162505046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="168">
+      <erp_libell>GROUPE SCOLAIRE LOUIS GUILLET</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>1 avenue Louis Guillet</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Louis Guillet</erp_adres3>
+      <Point>
+        <coordinates>-1.186036423,46.169854605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="169">
+      <erp_libell>GROUPE SCOLAIRE JEAN BART</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>38 avenue des Corsaires</erp_adresse>
+      <erp_adres1>38</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des Corsaires</erp_adres3>
+      <Point>
+        <coordinates>-1.173526294,46.166360284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="170">
+      <erp_libell>EUROCENTRES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue Michel Crépeau </erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue Michel Crépeau</erp_adres2>
+      <erp_adres3></erp_adres3>
+      <Point>
+        <coordinates>-1.158649072,46.143774591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="171">
+      <erp_libell>SALLE POLYVALENTE GPE SCOLAIRE LALEU</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>32bis rue Amiral Duperré</erp_adresse>
+      <erp_adres1>32bis</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Amiral Duperré</erp_adres3>
+      <Point>
+        <coordinates>-1.198995658,46.167066258</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="172">
+      <erp_libell>BÂTEAUX MUSÉE FRANCE I - ANGOUMOIS</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> Bassin des Chalutiers</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Bassin</erp_adres2>
+      <erp_adres3>des Chalutiers</erp_adres3>
+      <Point>
+        <coordinates>-1.152155408,46.153833558</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="173">
+      <erp_libell>ECOLE ELEMENTAIRE LE PRIEURE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>31 rue du Commandant L'Hermier</erp_adresse>
+      <erp_adres1>31</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Commandant L'Hermier</erp_adres3>
+      <Point>
+        <coordinates>-1.148499171,46.174390504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="174">
+      <erp_libell>ECOLE MATERNELLE LE PRIEURÉ</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>31 rue du Commandant L'Herminier</erp_adresse>
+      <erp_adres1>31</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Commandant L'Herminier</erp_adres3>
+      <Point>
+        <coordinates>-1.149911484,46.173705268</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="175">
+      <erp_libell>ECOLE MATERNELLE et ELEMENTAIRE DE BEAUREGARD</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>11 rue du Général Cousse</erp_adresse>
+      <erp_adres1>11</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Général Cousse</erp_adres3>
+      <Point>
+        <coordinates>-1.133841992,46.173305863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="176">
+      <erp_libell>GROUPE SCOLAIRE BARTHELEMY PROFIT</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>2 rue Rossel</erp_adresse>
+      <erp_adres1>2</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Rossel</erp_adres3>
+      <Point>
+        <coordinates>-1.132496826,46.153927637</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="177">
+      <erp_libell>GROUPE SCOLAIRE CONDORCET</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>40 avenue Danton</erp_adresse>
+      <erp_adres1>40</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Danton</erp_adres3>
+      <Point>
+        <coordinates>-1.120095517,46.153092779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="178">
+      <erp_libell>GROUPE SCOLAIRE LAVOISIER</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>29 avenue Schoelcher</erp_adresse>
+      <erp_adres1>29</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Schoelcher</erp_adres3>
+      <Point>
+        <coordinates>-1.12699359,46.154124602</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="179">
+      <erp_libell>ECOLE MATERNELLE RAYMOND BOUCHET</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>5 rue Guynemer</erp_adresse>
+      <erp_adres1>5</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Guynemer</erp_adres3>
+      <Point>
+        <coordinates>-1.144413453,46.148113661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="180">
+      <erp_libell>SOCIETE DES REGATES ROCHELAISE (CENTRE SPORTIF D'ANIMATION)</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>  Mole Central Port des Minimes</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2></erp_adres2>
+      <erp_adres3>Mole Central Port des Minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.165836344,46.143507477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="181">
+      <erp_libell>CARRE AMELOT GRAND ARSENAL NORD</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> place Jean Baptiste Marcet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Jean Baptiste Marcet</erp_adres3>
+      <Point>
+        <coordinates>-1.147920953,46.160250358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="182">
+      <erp_libell>GRAND ARSENAL SUD</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> place Jean Baptiste Marcet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Jean Baptiste Marcet</erp_adres3>
+      <Point>
+        <coordinates>-1.148007294,46.159895609</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="183">
+      <erp_libell>MARCHE COUVERT</erp_libell>
+      <erp_type>Magasin de vente, restaurant, bar</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> place du marché</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du marché</erp_adres3>
+      <Point>
+        <coordinates>-1.149147678,46.161798493</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="184">
+      <erp_libell>CASINO  DU  MAIL</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>15 allée du Mail</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>du Mail</erp_adres3>
+      <Point>
+        <coordinates>-1.166249287,46.155479145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="185">
+      <erp_libell>MAISON DE QUARTIER ET HALTE GARDERIE DE PORT NEUF</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>8 place de l'Ile de France</erp_adresse>
+      <erp_adres1>8</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de l'Ile de France</erp_adres3>
+      <Point>
+        <coordinates>-1.180369336,46.158271228</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="186">
+      <erp_libell>MUSEUM D'HISTOIRE NATURELLE</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>28 et 30 rue Albert 1er</erp_adresse>
+      <erp_adres1>28 et 30</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Albert 1er</erp_adres3>
+      <Point>
+        <coordinates>-1.151143422,46.164816474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="187">
+      <erp_libell>MUSEE DU NOUVEAU MONDE</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>10 rue Fleuriau</erp_adresse>
+      <erp_adres1>10</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Fleuriau</erp_adres3>
+      <Point>
+        <coordinates>-1.151073868,46.161640802</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="188">
+      <erp_libell>EGLISE SAINT SAUVEUR</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> rue Saint Sauveur</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Sauveur</erp_adres3>
+      <Point>
+        <coordinates>-1.150407332,46.158744309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="189">
+      <erp_libell>EGLISE NOTRE DAME</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>57 rue Alcide D'Orbigny</erp_adresse>
+      <erp_adres1>57</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Alcide D'Orbigny</erp_adres3>
+      <Point>
+        <coordinates>-1.146154215,46.163708643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="190">
+      <erp_libell>EGLISE DU SACRE COEUR</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> Place de la Genette</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Place</erp_adres2>
+      <erp_adres3>de la Genette</erp_adres3>
+      <Point>
+        <coordinates>-1.171017088,46.160145608</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="191">
+      <erp_libell>EGLISE SAINT PIERRE</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>10 rue Jacques Henry</erp_adresse>
+      <erp_adres1>10</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Jacques Henry</erp_adres3>
+      <Point>
+        <coordinates>-1.200234247,46.165344352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="192">
+      <erp_libell>AUBERGE DE JEUNESSE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue des Minimes</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des Minimes</erp_adres3>
+      <Point>
+        <coordinates>-1.161776492,46.144343259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="193">
+      <erp_libell> HALL DE TENNIS BOUFFENIE</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> avenue Pierre de Coubertin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Pierre de Coubertin</erp_adres3>
+      <Point>
+        <coordinates>-1.172137819,46.165101431</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="194">
+      <erp_libell>STADE LE PARCO</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> rue Henri Régnault</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Henri Régnault</erp_adres3>
+      <Point>
+        <coordinates>-1.177226691,46.172902299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="195">
+      <erp_libell>STADE ANDRE BRACQ</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> chemin des Remblais</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>chemin</erp_adres2>
+      <erp_adres3>des Remblais</erp_adres3>
+      <Point>
+        <coordinates>-1.202308465,46.168858953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="196">
+      <erp_libell>GYMNASE DES PARCS</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> esplanade des Parcs</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>esplanade</erp_adres2>
+      <erp_adres3>des Parcs</erp_adres3>
+      <Point>
+        <coordinates>-1.153529845,46.168299884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="197">
+      <erp_libell>PISCINE LUCIEN MAYLIN</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> rue Léonce Mailho</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Léonce Mailho</erp_adres3>
+      <Point>
+        <coordinates>-1.152873001,46.169057781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="198">
+      <erp_libell>SALLE GASTON NEVEUR</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> Esplanade des Parcs</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Esplanade</erp_adres2>
+      <erp_adres3>des Parcs</erp_adres3>
+      <Point>
+        <coordinates>-1.153802054,46.167181716</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="199">
+      <erp_libell>SALLE DE L'ORATOIRE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>6 rue Albert 1er</erp_adresse>
+      <erp_adres1>6</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Albert 1er</erp_adres3>
+      <Point>
+        <coordinates>-1.151872116,46.163497872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="200">
+      <erp_libell>SALLE DES FETES LA PALLICE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> boulevard Emile Delmas</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Emile Delmas</erp_adres3>
+      <Point>
+        <coordinates>-1.211175449,46.161418066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="201">
+      <erp_libell>SALLE MUNICIPALE DE TASDON</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> place des Britaniques</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>des Britaniques</erp_adres3>
+      <Point>
+        <coordinates>-1.143839756,46.148264585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="202">
+      <erp_libell>L'ASTROLABE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> parc Kennedy</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>parc</erp_adres2>
+      <erp_adres3>Kennedy</erp_adres3>
+      <Point>
+        <coordinates>-1.184829899,46.168930918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="203">
+      <erp_libell>CHAPELLE SAINT VINCENT</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>20 Quater rue Albert 1er</erp_adresse>
+      <erp_adres1>20 Quater</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Albert 1er</erp_adres3>
+      <Point>
+        <coordinates>-1.151517221,46.164419859</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="204">
+      <erp_libell>SALLE DU PETIT ARSENAL SUD</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4 place Jean Baptiste Marcet</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Jean Baptiste Marcet</erp_adres3>
+      <Point>
+        <coordinates>-1.148818073,46.160008878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="205">
+      <erp_libell>SALLE MUNICIPALE DU PRIEURE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue Antoine de Saint Exupéry</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Antoine de Saint Exupéry</erp_adres3>
+      <Point>
+        <coordinates>-1.146262653,46.178071509</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="206">
+      <erp_libell>MOSQUEE</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>32 avenue de Berne</erp_adresse>
+      <erp_adres1>32</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de Berne</erp_adres3>
+      <Point>
+        <coordinates>-1.177543802,46.166332141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="207">
+      <erp_libell>CHAPELLE FROMENTIN</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>14 rue du Collège</erp_adresse>
+      <erp_adres1>14</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Collège</erp_adres3>
+      <Point>
+        <coordinates>-1.150178926,46.163495415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="208">
+      <erp_libell>SALLE MUNICIPALE FRANCE VATRE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>96 rue du Vélodrome</erp_adresse>
+      <erp_adres1>96</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Vélodrome</erp_adres3>
+      <Point>
+        <coordinates>-1.1405281,46.173381655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="209">
+      <erp_libell>STADE MARCEL DEFLANDRE</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse> avenue du Maréchal Juin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Maréchal Juin</erp_adres3>
+      <Point>
+        <coordinates>-1.178471827,46.15778076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="210">
+      <erp_libell>CENTRE DE FORMATION DU RUGBY</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>17 avenue du Maréchal Juin</erp_adresse>
+      <erp_adres1>17</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Maréchal Juin</erp_adres3>
+      <Point>
+        <coordinates>-1.179495906,46.158765844</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="211">
+      <erp_libell>PARC DES EXPOSITIONS</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>1 rue Henri Barbusse</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Henri Barbusse</erp_adres3>
+      <Point>
+        <coordinates>-1.137290979,46.154251934</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="212">
+      <erp_libell>SALLE MUNICIPALE RENE PETIT</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>  Le Petit Brouage</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2></erp_adres2>
+      <erp_adres3>Le Petit Brouage</erp_adres3>
+      <Point>
+        <coordinates>-1.132288543,46.15791716</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="213">
+      <erp_libell> GYMNASE DE L'I U T</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>74 rue de Roux</erp_adresse>
+      <erp_adres1>74</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Roux</erp_adres3>
+      <Point>
+        <coordinates>-1.150952543,46.143025646</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="214">
+      <erp_libell>SALLE POLYVALENTE VDS</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue Billaud Varennes</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Billaud Varennes</erp_adres3>
+      <Point>
+        <coordinates>-1.122204873,46.151339973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="215">
+      <erp_libell>CRECHE DU CHAMP DE MARS</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue du Champ de Mars</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Champ de Mars</erp_adres3>
+      <Point>
+        <coordinates>-1.148906332,46.169977711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="216">
+      <erp_libell>CENTRE SOCIAL LA ROCHELLE VILLE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>41 rue Thiers</erp_adresse>
+      <erp_adres1>41</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Thiers</erp_adres3>
+      <Point>
+        <coordinates>-1.146057803,46.161084219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="217">
+      <erp_libell> ACCUEIL DE NUIT  L'ESCALE</erp_libell>
+      <erp_type>Hôtel et pension de famille</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>15 avenue du Champ de Mars</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Champ de Mars</erp_adres3>
+      <Point>
+        <coordinates>-1.149199779,46.169567113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="218">
+      <erp_libell>CENTRE SOCIAL ET SALLE POLYVALENTE DE SAINT ELOI</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>40 Rue Basse de Saint Eloi</erp_adresse>
+      <erp_adres1>40</erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>Basse de Saint Eloi</erp_adres3>
+      <Point>
+        <coordinates>-1.133963617,46.166174285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="219">
+      <erp_libell>SALLE EMILE COMBES</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>38 rue de la Pépinière</erp_adresse>
+      <erp_adres1>38</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Pépinière</erp_adres3>
+      <Point>
+        <coordinates>-1.164260568,46.160253545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="220">
+      <erp_libell>SALLE MUNICIPALE DU CLOS MARGAT</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue du  Margat</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du  Margat</erp_adres3>
+      <Point>
+        <coordinates>-1.125108029,46.157275587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="221">
+      <erp_libell>CENTRE SOCIAL DE VILLENEUVE LES SALINES</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> avenue du 14 Juillet - Villeneuve</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du 14 Juillet - Villeneuve</erp_adres3>
+      <Point>
+        <coordinates>-1.125216137,46.15155988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="222">
+      <erp_libell>SALLE MUNICIPALE DE BONGRAINE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>99 rue Nicolas Gargot</erp_adresse>
+      <erp_adres1>99</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Nicolas Gargot</erp_adres3>
+      <Point>
+        <coordinates>-1.145742204,46.139746043</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="223">
+      <erp_libell>MEDIATHEQUE VILLENEUVE DES SALINES</erp_libell>
+      <erp_type>Bilbliothèque, centre de documentation</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> place du 14 Juillet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du 14 Juillet</erp_adres3>
+      <Point>
+        <coordinates>-1.124642585,46.151475339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="224">
+      <erp_libell>MUSEE MARITIME</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>59 quai Louis Prunier</erp_adresse>
+      <erp_adres1>59</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Louis Prunier</erp_adres3>
+      <Point>
+        <coordinates>-1.150878594,46.149954517</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="225">
+      <erp_libell>LA MAISON DU PORTUGAL</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue du maquis Bir Hackem -Foch</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du maquis Bir Hackem -Foch</erp_adres3>
+      <Point>
+        <coordinates>-1.133932276,46.172777016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="226">
+      <erp_libell>LA PASSERELLE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> Square La Passerelle</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Square</erp_adres2>
+      <erp_adres3>La Passerelle</erp_adres3>
+      <Point>
+        <coordinates>-1.179874162,46.165777357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="227">
+      <erp_libell>BOULODROME MUNICIPAL</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>400 avenue Jean Guiton</erp_adresse>
+      <erp_adres1>400</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Jean Guiton</erp_adres3>
+      <Point>
+        <coordinates>-1.199666832,46.159819101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="228">
+      <erp_libell>TEMPLE PROTESTANT</erp_libell>
+      <erp_type>Etablissement de culte</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>4 rue Saint Michel</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Saint Michel</erp_adres3>
+      <Point>
+        <coordinates>-1.149912503,46.159570979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="229">
+      <erp_libell>ESPACE ENCAN</erp_libell>
+      <erp_type>Musée, exposition</erp_type>
+      <erp_catego>1</erp_catego>
+      <erp_adresse>86 quai Louis Prunier</erp_adresse>
+      <erp_adres1>86</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>Louis Prunier</erp_adres3>
+      <Point>
+        <coordinates>-1.15070682,46.151343311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="230">
+      <erp_libell>ARCHIPEL SANTE</erp_libell>
+      <erp_type>Etablissement sanitaire ou accueil</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> rue Franck Lapeyre</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Franck Lapeyre</erp_adres3>
+      <Point>
+        <coordinates>-1.140179559,46.158316091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="231">
+      <erp_libell>PARKING SOUTERRAIN DE VERDUN</erp_libell>
+      <erp_type>Parc de stationnement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> place de Verdun</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de Verdun</erp_adres3>
+      <Point>
+        <coordinates>-1.152823854,46.162475486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="232">
+      <erp_libell>SALLE DES FETES DE VILLENEUVE LES SALINES</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>86 avenue Billaud Varenne - Ville</erp_adresse>
+      <erp_adres1>86</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Billaud Varenne - Ville</erp_adres3>
+      <Point>
+        <coordinates>-1.118507414,46.150776164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="233">
+      <erp_libell>THEATRE DE LA FABRIQUE DU VELODROME</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>4 rue du Vélodrome</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Vélodrome</erp_adres3>
+      <Point>
+        <coordinates>-1.143711893,46.169170495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="234">
+      <erp_libell>CHANTIER DES FRANCOS</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> place Saint Jean d'Acre</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>Saint Jean d'Acre</erp_adres3>
+      <Point>
+        <coordinates>-1.157170093,46.155098023</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="235">
+      <erp_libell>THEATRE TOUJOURS A L'HORIZON</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> chemin de Ceinture Nord</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>chemin</erp_adres2>
+      <erp_adres3>de Ceinture Nord</erp_adres3>
+      <Point>
+        <coordinates>-1.207571631,46.160760614</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="236">
+      <erp_libell>THEATRE DU BALLON ROUGE</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>10 rue Jacques Henry</erp_adresse>
+      <erp_adres1>10</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Jacques Henry</erp_adres3>
+      <Point>
+        <coordinates>-1.200971184,46.164969988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="237">
+      <erp_libell>Centre de vacances du Theil</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> Lieu-dit Le Theil</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Lieu-dit</erp_adres2>
+      <erp_adres3>Le Theil</erp_adres3>
+      <Point>
+        <coordinates>1.719854195,45.408195098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="238">
+      <erp_libell>Centre sportif de la Pinelière</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse> Rue du Parc</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>du Parc</erp_adres3>
+      <Point>
+        <coordinates>-1.167168964,46.190987618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="239">
+      <erp_libell>Ecole Nationale de Musique et de Danse</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>15 rue des Fonderies</erp_adresse>
+      <erp_adres1>15</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>des Fonderies</erp_adres3>
+      <Point>
+        <coordinates>-1.146271464,46.16112773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="240">
+      <erp_libell>Collège Albert Camus</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse>1 rue François Viète</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>François Viète</erp_adres3>
+      <Point>
+        <coordinates>-1.140174512,46.144698176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="241">
+      <erp_libell>Discothèque Le Privilège</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>12 rue Ballangerie</erp_adresse>
+      <erp_adres1>12</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Ballangerie</erp_adres3>
+      <Point>
+        <coordinates>-1.156793912,46.156777797</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="242">
+      <erp_libell>Ecole maternelle Bongraine</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse>13 rue Jean-Baptiste Charcot</erp_adresse>
+      <erp_adres1>13</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Jean-Baptiste Charcot</erp_adres3>
+      <Point>
+        <coordinates>-1.142980207,46.141248643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="243">
+      <erp_libell>Ecole primaire La genette</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>32 rue Michelet</erp_adresse>
+      <erp_adres1>32</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Michelet</erp_adres3>
+      <Point>
+        <coordinates>-1.168116425,46.159422404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="244">
+      <erp_libell>CRECHE "PETIT À PETIT" SAINT ELOI</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>38 rue Basse de Saint Eloi</erp_adresse>
+      <erp_adres1>38</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Basse de Saint Eloi</erp_adres3>
+      <Point>
+        <coordinates>-1.134437228,46.166062236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="245">
+      <erp_libell>ISFAC</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>17 rue Jean Perrin</erp_adresse>
+      <erp_adres1>17</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Jean Perrin</erp_adres3>
+      <Point>
+        <coordinates>-1.15822281,46.140665346</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="246">
+      <erp_libell>Crèche de La Pallice</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>247 avenue Denfert Rochereau</erp_adresse>
+      <erp_adres1>247</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Denfert Rochereau</erp_adres3>
+      <Point>
+        <coordinates>-1.209937993,46.163638275</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="247">
+      <erp_libell>Groupe scolaire Paul Doumer</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>19 rue Paul Doumer</erp_adresse>
+      <erp_adres1>19</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Paul Doumer</erp_adres3>
+      <Point>
+        <coordinates>-1.139988986,46.163272462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="248">
+      <erp_libell>Groupe scolaire de Laleu</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>19 rue de la Muse</erp_adresse>
+      <erp_adres1>19</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de la Muse</erp_adres3>
+      <Point>
+        <coordinates>-1.20012967,46.167658807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="249">
+      <erp_libell>Ecole maternelle de La Genette</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>35 rue Michelet</erp_adresse>
+      <erp_adres1>35</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Michelet</erp_adres3>
+      <Point>
+        <coordinates>-1.168136644,46.159257056</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="250">
+      <erp_libell>Ecole Réaumur</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>42 rue Rambaud</erp_adresse>
+      <erp_adres1>42</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Rambaud</erp_adres3>
+      <Point>
+        <coordinates>-1.154903111,46.163692979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="251">
+      <erp_libell>Camping municipal de Port-Neuf</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego></erp_catego>
+      <erp_adresse>6 Boulevard Aristide Rondeau</erp_adresse>
+      <erp_adres1>6</erp_adres1>
+      <erp_adres2>Boulevard</erp_adres2>
+      <erp_adres3>Aristide Rondeau</erp_adres3>
+      <Point>
+        <coordinates>-1.184437009,46.160420254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="252">
+      <erp_libell>Camping municipal du soleil</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego></erp_catego>
+      <erp_adresse> Avenue Michel Crépeau</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Avenue</erp_adres2>
+      <erp_adres3>Michel Crépeau</erp_adres3>
+      <Point>
+        <coordinates>-1.157947241,46.150699493</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="253">
+      <erp_libell>STADE VELODROME MAURICE DELAUNAY</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego></erp_catego>
+      <erp_adresse>92 rue du Vélodrome</erp_adresse>
+      <erp_adres1>92</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Vélodrome</erp_adres3>
+      <Point>
+        <coordinates>-1.139326036,46.173393545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="254">
+      <erp_libell>PLAINE DES JEUX COLETTE BESSON</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego></erp_catego>
+      <erp_adresse>8 boulevard Aristide Rondeau</erp_adresse>
+      <erp_adres1>8</erp_adres1>
+      <erp_adres2>boulevard</erp_adres2>
+      <erp_adres3>Aristide Rondeau</erp_adres3>
+      <Point>
+        <coordinates>-1.186159246,46.159107551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="255">
+      <erp_libell>PLAINE DES JEUX DU PETIT MARSEILLE</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego></erp_catego>
+      <erp_adresse>23 rue du Prado</erp_adresse>
+      <erp_adres1>23</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Prado</erp_adres3>
+      <Point>
+        <coordinates>-1.13384323,46.157790914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="256">
+      <erp_libell>SALLE DE BILLARD LALEU</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>55 rue Amiral Duperré</erp_adresse>
+      <erp_adres1>55</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Amiral Duperré</erp_adres3>
+      <Point>
+        <coordinates>-1.19981828,46.165868184</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="257">
+      <erp_libell>DOJO BASTION</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>21 quai de Marans</erp_adresse>
+      <erp_adres1>21</erp_adres1>
+      <erp_adres2>quai</erp_adres2>
+      <erp_adres3>de Marans</erp_adres3>
+      <Point>
+        <coordinates>-1.147595076,46.155453661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="258">
+      <erp_libell>AFPA</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>16 avenue des Cordeliers</erp_adresse>
+      <erp_adres1>16</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des Cordeliers</erp_adres3>
+      <Point>
+        <coordinates>-1.144880811,46.163570635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="259">
+      <erp_libell>CNFPT</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>13 rue Franc Lapeyre</erp_adresse>
+      <erp_adres1>13</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Franc Lapeyre</erp_adres3>
+      <Point>
+        <coordinates>-1.140394915,46.158110042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="260">
+      <erp_libell>GERFI</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>11 rue de l'Ouvrage à Cornes</erp_adresse>
+      <erp_adres1>11</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de l'Ouvrage à Cornes</erp_adres3>
+      <Point>
+        <coordinates>-1.145458762,46.155301846</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="261">
+      <erp_libell>CRECHE FAMILIALE VILLENEUVE LES SALINES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>4 rue Chabaneix</erp_adresse>
+      <erp_adres1>4</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Chabaneix</erp_adres3>
+      <Point>
+        <coordinates>-1.123263375,46.15060802</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="262">
+      <erp_libell>CRECHE MULTI ACCUEIL "LES PETITS MOULINS"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>98 rue du Moulin de la Mozay</erp_adresse>
+      <erp_adres1>98</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>du Moulin de la Mozay</erp_adres3>
+      <Point>
+        <coordinates>-1.12702688,46.173374604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="263">
+      <erp_libell>CRECHE MULTI ACCUEIL "MELI-MELO"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>38 avenue du maréchal Juin</erp_adresse>
+      <erp_adres1>38</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du maréchal Juin</erp_adres3>
+      <Point>
+        <coordinates>-1.18005582,46.158008296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="264">
+      <erp_libell>HALTE-GARDERIE PARENTALE "LES PETITS PRINCES"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>41 rue Thiers</erp_adresse>
+      <erp_adres1>41</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Thiers</erp_adres3>
+      <Point>
+        <coordinates>-1.145893873,46.161027464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="265">
+      <erp_libell>RELAIS ASSITANTES MATERNELLES NORD</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>57 rue Amiral Duperré</erp_adresse>
+      <erp_adres1>57</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Amiral Duperré</erp_adres3>
+      <Point>
+        <coordinates>-1.199783684,46.165770147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="266">
+      <erp_libell>ESPACE MUSIQUES ACTUELLES "LA SIRENE"</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>2</erp_catego>
+      <erp_adresse>9063 Chaussée de ceinture nord</erp_adresse>
+      <erp_adres1>9063</erp_adres1>
+      <erp_adres2>Chaussée</erp_adres2>
+      <erp_adres3>de ceinture nord</erp_adres3>
+      <Point>
+        <coordinates>-1.215467446,46.160290753</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="267">
+      <erp_libell>SALLE DES FETES DE MIREUIL ESPACE BERNARD GIRAUDEAU</erp_libell>
+      <erp_type>Salle de spectacles, réunions</erp_type>
+      <erp_catego>3</erp_catego>
+      <erp_adresse> Avenue du Président Kennedy</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Avenue</erp_adres2>
+      <erp_adres3>du Président Kennedy</erp_adres3>
+      <Point>
+        <coordinates>-1.185976391,46.168329296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="268">
+      <erp_libell>CRECHE "L'ILE DES ENFANTS"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> Rue de Beauregard</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>de Beauregard</erp_adres3>
+      <Point>
+        <coordinates>-1.133309924,46.174223523</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="269">
+      <erp_libell>CLAR</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> Avenue Kennedy</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Avenue</erp_adres2>
+      <erp_adres3>Kennedy</erp_adres3>
+      <Point>
+        <coordinates>-1.186122838,46.167742264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="270">
+      <erp_libell>CLAR</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> Rue Jules Chéret</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>Jules Chéret</erp_adres3>
+      <Point>
+        <coordinates>-1.175912261,46.169138251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="271">
+      <erp_libell>Ecole maternelle de Lafond</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> Place du Champ de Mars</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Place</erp_adres2>
+      <erp_adres3>du Champ de Mars</erp_adres3>
+      <Point>
+        <coordinates>-1.148195984,46.169900709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="272">
+      <erp_libell>FORMAT PRO</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> Rue Jacques Monod</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>Jacques Monod</erp_adres3>
+      <Point>
+        <coordinates>-1.159456213,46.140794762</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="273">
+      <erp_libell>Ecole Marcelin Berthelot</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> Rue de Vaugouin</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>Rue</erp_adres2>
+      <erp_adres3>de Vaugouin</erp_adres3>
+      <Point>
+        <coordinates>-1.186299091,46.163090781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="274">
+      <erp_libell>CRECHE PARENTALE IL ETAIT UN PETIT NAVIRE</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>87 avenue des Cordeliers</erp_adresse>
+      <erp_adres1>87</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>des Cordeliers</erp_adres3>
+      <Point>
+        <coordinates>-1.141529183,46.16646336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="275">
+      <erp_libell>SALLE DE SPORT ET DE MUSCULATION</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>87 avenue Billaud Varenne</erp_adresse>
+      <erp_adres1>87</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Billaud Varenne</erp_adres3>
+      <Point>
+        <coordinates>-1.117984431,46.150801998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="276">
+      <erp_libell>CRECHE MUNICIPALE DES MINIMES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>44 rue de Roux</erp_adresse>
+      <erp_adres1>44</erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>de Roux</erp_adres3>
+      <Point>
+        <coordinates>-1.152103647,46.145471763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="277">
+      <erp_libell>SALLE MUNICIPALE DE MUSCULATION</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>5 place de l'Europe</erp_adresse>
+      <erp_adres1>5</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de l'Europe</erp_adres3>
+      <Point>
+        <coordinates>-1.179352391,46.167102916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="278">
+      <erp_libell>SALLE D'HALTEROPHILIE DE MIREUIL</erp_libell>
+      <erp_type>Etablissement sportif couvert</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> avenue du Président Kennedy</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>du Président Kennedy</erp_adres3>
+      <Point>
+        <coordinates>-1.183711026,46.167614845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="279">
+      <erp_libell>Maison du Lac</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> rue Chabaneix</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Chabaneix</erp_adres3>
+      <Point>
+        <coordinates>-1.123628213,46.150578316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="280">
+      <erp_libell>GROUPE SCOLAIRE LES GRANDES VARENNES</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> avenue de la Résistance</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>de la Résistance</erp_adres3>
+      <Point>
+        <coordinates>-1.179590371,46.171213265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="281">
+      <erp_libell>Ecole maternelle gaston Ballande</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>4</erp_catego>
+      <erp_adresse> rue Nicolas de l'Argillière</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>rue</erp_adres2>
+      <erp_adres3>Nicolas de l'Argillière</erp_adres3>
+      <Point>
+        <coordinates>-1.174782282,46.171226553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="282">
+      <erp_libell>Aire d'accueil des gens du voyage</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>0</erp_catego>
+      <erp_adresse> terrain Sud aéroport Laleu</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>terrain</erp_adres2>
+      <erp_adres3>Sud aéroport Laleu</erp_adres3>
+      <Point>
+        <coordinates>-1.202000546,46.176953933</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="283">
+      <erp_libell>Plaine des jeux de Villeuve-Les-Salines</erp_libell>
+      <erp_type>Autres</erp_type>
+      <erp_catego>0</erp_catego>
+      <erp_adresse>62 avenue Robespierre</erp_adresse>
+      <erp_adres1>62</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Robespierre</erp_adres3>
+      <Point>
+        <coordinates>-1.125117996,46.150045183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="284">
+      <erp_libell>Institut de formation de la coiffure</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>107 avenue Michel Crépeau</erp_adresse>
+      <erp_adres1>107</erp_adres1>
+      <erp_adres2>avenue</erp_adres2>
+      <erp_adres3>Michel Crépeau</erp_adres3>
+      <Point>
+        <coordinates>-1.15822661,46.14909497</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="285">
+      <erp_libell>Crèche familiale de Mireuil</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> square La passerrelle</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>square</erp_adres2>
+      <erp_adres3>La passerrelle</erp_adres3>
+      <Point>
+        <coordinates>-1.180091564,46.165719403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="286">
+      <erp_libell>Crèche multi-accueil "La farandole"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> place du 14 juillet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du 14 juillet</erp_adres3>
+      <Point>
+        <coordinates>-1.125221292,46.151364664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="287">
+      <erp_libell>Crèche multi-accueil "Les p'tits futés"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>22 place de l'Europe</erp_adresse>
+      <erp_adres1>22</erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>de l'Europe</erp_adres3>
+      <Point>
+        <coordinates>-1.180269756,46.166497138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="288">
+      <erp_libell>Halte garderie "Sucette et galipette"</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> square Gabriel Lippmann</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>square</erp_adres2>
+      <erp_adres3>Gabriel Lippmann</erp_adres3>
+      <Point>
+        <coordinates>-1.159109363,46.140246908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="289">
+      <erp_libell>Mini club Centre social de Tasdon</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse>1 allée Marie Claude Mémon</erp_adresse>
+      <erp_adres1>1</erp_adres1>
+      <erp_adres2>allée</erp_adres2>
+      <erp_adres3>Marie Claude Mémon</erp_adres3>
+      <Point>
+        <coordinates>-1.147480984,46.143015869</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark erp_id="290">
+      <erp_libell>RELAIS ASSITANTES MATERNELLES SUD</erp_libell>
+      <erp_type>Enseignement</erp_type>
+      <erp_catego>5</erp_catego>
+      <erp_adresse> place du 14 Juillet</erp_adresse>
+      <erp_adres1></erp_adres1>
+      <erp_adres2>place</erp_adres2>
+      <erp_adres3>du 14 Juillet</erp_adres3>
+      <Point>
+        <coordinates>-1.12519916,46.151662287</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+
+

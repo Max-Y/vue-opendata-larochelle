@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><opendata>	<request>http://www.opendata.larochelle.fr/webservice/?service=getData&amp;key=LHE8vyLUbT4DSMNe&amp;db=stationnement&amp;table=disponibilite_parking_jour&amp;format=xml&amp;limit=5000</request>	<answer>		<status>code=7 message=Une erreur s'est produite lors de l'execution de la requete.</status>	</answer></opendata>
